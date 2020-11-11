@@ -1,5 +1,5 @@
-# Cloud Computing Project 
-Web Analytics using Cloud Services
+## Cloud Computing Project 
+# Web Analytics using Cloud Services
 
 Created By:
   1. Arushi Falod
@@ -13,4 +13,8 @@ The developers would want to know how the user operates the website, so that the
 
 # Aim of the project
 To provide a platform where website owners can track and analyse the usage of their website in near-real time using Cloud services.
+
+# Description
+In this project, we have deployed an AWS architecture using various services which will provide insight into who visits the website, where they come from,how long they stay, what content they view and what all features they use. This architecture will help website owners to analyse time series data on counts of visitors, views on various pages, time spent on the website,traffic on the website, actions users take, and many more.These insights can allow owners to improvise quickly to changing conditions and unknown situations.
+We have also created a dashboard that will help in better visualization of analysis results in near-real time.
 
