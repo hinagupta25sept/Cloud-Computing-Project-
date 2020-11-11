@@ -1,7 +1,7 @@
-# Cloud Computing Project
-# Web Analytics using Cloud Services
+# Cloud Computing Project 
+Web Analytics using Cloud Services
 
-# Created By:
+Created By:
   1. Arushi Falod
   2. Drashti Modasara
   3. Hina Gupta
