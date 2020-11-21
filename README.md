@@ -1,5 +1,5 @@
 # Cloud Computing Project 
-## Web Analytics using Cloud Services
+## Website Analysis Tool using Cloud Services
 
 Created By:
   1. Arushi Falod
